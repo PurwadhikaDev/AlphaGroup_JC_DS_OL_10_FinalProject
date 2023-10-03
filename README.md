@@ -63,7 +63,7 @@ Selain itu, **akan dibangun juga model klasifikasi yang dapat membantu Olist unt
 | | | | **delayed**: barang sampai lebih lama dari perkiraan)
 
 ## **Metric Evaluation**
-![ConfusionMatrix](ConfusionMatrix.png)
+![(ConfusionMatrix.png)](https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_10_FinalProject/blob/757e406e667b425ff5f3ea65d74b0f6b4032d939/ConfusionMatrix.png)
 
 **Type I Error (False Positive):**
 
